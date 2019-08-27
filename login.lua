@@ -8,7 +8,7 @@ Make sure to encode the 'Keys' so people cannot read the login info
 
 NOTE: DON'T CHANGE ANY OF THE CODING AS YOU MIGHT BREAK IT
 
-<CodeVoid>
+<CodeVoid> 
 ----------------------------------------------------------------------------------------]]
 
 AuthNo = false
