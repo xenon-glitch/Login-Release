@@ -226,7 +226,7 @@ else
 end
 
 //-------------------------------------------------------
-// Coded By Void Rebug Login Release Soruce
+// Coded By Void Login Release Soruce
 // https://github.com/Void09/Login-Release
 // Note to the person using this, removing this
 // text is in violation of the licence you agreed
