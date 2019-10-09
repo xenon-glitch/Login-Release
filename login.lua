@@ -224,3 +224,14 @@ else
      AuthNo = false
    end
 end
+
+//-------------------------------------------------------
+// Coded By Void Rebug Login Release Soruce
+// https://github.com/Void09/Login-Release
+// Note to the person using this, removing this
+// text is in violation of the licence you agreed
+// to by downloading.
+// Copyright © Void 2019
+// Licenced under © MIT licence here
+// https://github.com/Void09/Login-Release/blob/master/LICENSE
+//-------------------------------------------------------
